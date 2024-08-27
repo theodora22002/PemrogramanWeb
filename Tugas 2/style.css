@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(128, 165, 240);
+}
+
+p1 {
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ffee00;
+    font-size: 20px
+    }
+p2,p3{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffee00;
+    margin-left: 20px;
+}
